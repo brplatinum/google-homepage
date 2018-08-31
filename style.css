@@ -1,0 +1,95 @@
+body{
+
+}
+.google-main {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    padding-top: 10%;
+}
+
+input {
+    font-family: "Arial";
+}
+
+.logo {
+    margin-bottom: 18px;
+}
+.search-bar {
+    width: 450px;
+    height: 30px;
+    margin-bottom: 25px;
+    text-align: left;
+    font-size: 16px;
+    line-height: 34px;
+    border-radius: 3%;
+    border: 1px solid #c6c6c6;
+    box-shadow: 0px 4px 30px -3px rgba(179,179,179,1);
+}
+
+button {
+    border-radius: 3%;
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    height: 40px;
+    width: 140px;
+    color: #757575;
+    font-weight: bold;
+}
+
+button:hover {
+    color: #222;
+    border: 1px solid #c6c6c6;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+}
+
+ul {
+    font-family: "Arial";
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+
+.nav-items {
+    float: right;
+    padding-top: 12px;
+}
+
+a {
+    padding: 5px;
+    font-size: 13px;
+    color: rgba(0,0,0,0.87);
+    font-style: normal;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.foot-bar {
+    text-align: end;
+    display: block;
+    background: #f2f2f2;
+    width: 99%;
+    border-top: 1px solid #e4e4e4;
+    position: absolute;
+    bottom: 0;
+    height: 3em;
+}
+
+.left-foot {
+    float: left;
+}
+
+.foot-text {
+    font-size: 14px;
+    line-height: 28px;
+}
+
+
+
