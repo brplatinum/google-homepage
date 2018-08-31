@@ -6,12 +6,4 @@ SKills learned from completing this task:
 - How to add and edit forms inside of a web page.
 - How to combine HTML and CSS to create a webpage that is both functional and looks good.
 
-
-
-
-
-
-
-
-
 From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
